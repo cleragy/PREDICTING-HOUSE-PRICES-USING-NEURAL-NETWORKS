@@ -1,4 +1,4 @@
-# PREDICTING HOUSE PRICES USING NEURAL NETWORKSHOUSE-PRICE-PREDICTION-USING-NEAURAL-NETWORK
+# PREDICTING HOUSE PRICES USING NEURAL NETWORKs
 
 ## OBJECTIVE
 Predicting home prices accurately poses a significant challenge due to various influencing factors like property attributes, location, economic conditions, and market dynamics.
