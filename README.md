@@ -8,18 +8,17 @@ Sellers benefit from understanding their property's value, allowing them to set 
 ### AIM:
 
 Develop robust house price prediction models. These models, by considering a multitude of variables including property features, economic indicators, and market trends, aim to provide accurate predictions aligned closely with actual sales prices
-
 ## Table of Contents
-Importing Libraries and Data Loading
-EDA - Data Cleaning.
-Outlier Removal
-Training and Testing
-Model Training, Machine Learning Regression
-Feature Engineering and Feature Importance
-Recommendations
-Neaural Network Regression using TensorFlow.
-Conclusion
 
+- [Importing Libraries and Data Loading](#importing-libraries-and-data-loading)
+- [EDA - Data Cleaning](#eda---data-cleaning)
+- [Outlier Removal](#outlier-removal)
+- [Training and Testing](#training-and-testing)
+- [Model Training - Machine Learning Regression](#model-training---machine-learning-regression)
+- [Feature Engineering and Feature Importance](#feature-engineering-and-feature-importance)
+- [Recommendations](#recommendations)
+- [Neural Network Regression Using TensorFlow](#neural-network-regression-using-tensorflow)
+- [Conclusion](#conclusion)
 
 ## Conclusion
 Positive correlations were observed, such as:
